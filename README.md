@@ -6,9 +6,9 @@ This project was developed as part of the **CodeAlpha Internship Task – E‑Co
 ---
 ## 👩‍🎓 Intern Details
 
-Name: TALLAM HARIKA 
+Name: GADDAM BHAVANA
 
-Student ID: CA/DF1/23660
+Student ID: CA/DF1/24315
 
 Internship Domain: Full Stack Development
 
