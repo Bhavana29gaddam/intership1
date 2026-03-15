@@ -127,7 +127,7 @@ CodeAlpha_Ecommerce
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone (https://github.com/Bhavana29gaddam/project)
+git clone (https://github.com/Bhavana29gaddam/intership1)
 
 2️⃣ Backend Setup
 cd backend npm install
