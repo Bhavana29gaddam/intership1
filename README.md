@@ -91,72 +91,57 @@ CodeAlpha_Ecommerce
 
 ### 🏠 Home Page
 <p align="center">
-  <img src="https://github.com/tallamharika/CodeAlpha_Ecommerce/blob/main/Screenshot%20(850).png" width="250"/>
-  <img src="https://github.com/tallamharika/CodeAlpha_Ecommerce/blob/main/Screenshot%20(859).png" width="250"/>
-  <img src="https://github.com/tallamharika/CodeAlpha_Ecommerce/blob/main/Screenshot%20(860).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/intership1/blob/main/Screenshot%20(850).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/intership1/blob/main/Screenshot%20(859).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/intership1/blob/main/Screenshot%20(860).png" width="250"/>
 </p>
 
 
 ### 🔐 Login Page
 <p align="center">
-  <img src="https://github.com/tallamharika/CodeAlpha_Ecommerce/blob/main/Screenshot%20(851).png" width="250"/>
-  <img src="https://github.com/tallamharika/CodeAlpha_Ecommerce/blob/main/Screenshot%20(852).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/intership1/blob/main/Screenshot%20(851).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/intership1/blob/main/Screenshot%20(852).png" width="250"/>
 </p>
 
 ### 📊 Dashboard
 <p align="center">
-  <img src="https://github.com/tallamharika/CodeAlpha_Ecommerce/blob/main/Screenshot%20(853).png" width="250"/>
-  <img src="https://github.com/tallamharika/CodeAlpha_Ecommerce/blob/main/Screenshot%20(854).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/intership1/blob/main/Screenshot%20(853).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/intership1/blob/main/Screenshot%20(854).png" width="250"/>
 </p>
 
 ### 🛒 Cart Page
 <p align="center">
-  <img src="https://github.com/tallamharika/CodeAlpha_Ecommerce/blob/main/Screenshot%20(855).png" width="250"/>
-  <img src="https://github.com/tallamharika/CodeAlpha_Ecommerce/blob/main/Screenshot%20(856).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/intership1/blob/main/Screenshot%20(855).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/intership1/blob/main/Screenshot%20(856).png" width="250"/>
 </p>
 
 ### 📦 Order Stored in MongoDB
 <p align="center">
-  <img src="https://github.com/tallamharika/CodeAlpha_Ecommerce/blob/main/Screenshot%20(857).png" width="250"/>
-  <img src="https://github.com/tallamharika/CodeAlpha_Ecommerce/blob/main/Screenshot%20(858).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/intership1/blob/main/Screenshot%20(857).png" width="250"/>
+  <img src="https://github.com/Bhavana29gaddam/intership1/blob/main/Screenshot%20(858).png" width="250"/>
 </p>
 
 *(Create a folder named `screenshots` in the root directory and place images there.)*
 
 ---
 
-## ⚙️ Installation & Setup
+⚙️ Installation & Setup
+1️⃣ Clone the Repository
+git clone (https://github.com/Bhavana29gaddam/project)
 
-### 1️⃣ Clone the repository
-```
-git clone https://github.com/your-username/CodeAlpha_Ecommerce.git
-```
+2️⃣ Backend Setup
+cd backend npm install
 
-### 2️⃣ Backend Setup
-```
-cd backend
-npm install
-```
+Create a .env file and add:
 
-Create a `.env` file:
-```
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_secret_key
-```
+MONGO_URI=mongodb+srv://god376853_db_user:bhavana123@cluster0.cjzgynd.mongodb.net/ecommerce?retryWrites=true&w=majority&appName=Cluster0
 
-Run backend:
-```
-npm start
-```
+Run backend server:
 
-### 3️⃣ Frontend Setup
-```
-cd frontend
-npm install
-npm run dev
-```
+node server.js
 
----
+3️⃣ Frontend Setup
+Open the frontend folder and runs using npm start on http://localhost:5173 and the backend server runs on http://localhost:5000.
 
 ## 🗄️ Database Schema Overview
 
@@ -201,7 +186,7 @@ npm run dev
 
 ## 👩‍💻 Author
 
-**Tallam Harika**  
+**GADDAM BHAVANA**  
 MERN Stack Developer  
 CodeAlpha Internship Submission
 
